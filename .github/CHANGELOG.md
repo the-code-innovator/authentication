@@ -1,3 +1,9 @@
+# develop: v0.0.1
+
+## What's Changed
+basic authentication & authorization using oauth and jwt
+
+**Full Changelog**: [v0.0.0...v0.0.1](https://github.com/the-code-innovator/authentication/compare/v0.0.0...v0.0.1)
 
 # develop: v0.0.0
 
@@ -12,4 +18,4 @@
 ## New Contributors
 * @the-code-innovator made their first contribution in https://github.com/the-code-innovator/authentication/pull/1
 
-**Full Changelog**: https://github.com/the-code-innovator/authentication/commits/v0.0.0
+**Full Changelog**: [v0.0.0](https://github.com/the-code-innovator/authentication/commits/v0.0.0)
